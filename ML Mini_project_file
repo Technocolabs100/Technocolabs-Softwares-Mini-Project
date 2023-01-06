@@ -1,0 +1,14 @@
+Problem Statement-
+The data scientists at BigMart have collected sales data for 1559 products across 10 stores in different cities for the year 2013. Now each product has certain attributes that sets it apart from other products. Same is the case with each store.
+The aim is to build a predictive model to find out the sales of each product at a particular store so that it would help the decision makers at BigMart to find out the properties of any product or store, which play a key role in increasing the overall sales.
+
+Hypothesis Generation-
+Item weight might effect a sales of the product.
+Sales of the product may be depends on the items fat content.
+More Item_Visibility of a particular product may be costlier than other products.
+Item type could have an effect on the sales.
+Are the items with more MRP have more item outlet sales.
+Are the stores which have established earlier have more sales.
+Size of the stores could have an effect on the item sales at a particular store.
+Location of the stores might depends on the Item outlet sales.
+Are the supermarkets have more sales than others.
