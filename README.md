@@ -1,1 +1,0 @@
-# Technocolabs-Softwares-Mini-Project
