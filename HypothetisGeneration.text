@@ -1,0 +1,16 @@
+Problem Statement
+ The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities.
+Also, certain attributes of each product and store have been defined. The aim of this data science project is to build a 
+predictive model and find out the sales of each product at a particular store ,
+Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
+
+Hypothesis Generation Based On Various Factors
+1.The Item with more visibility could have more sale.
+2. The item weight might affect the item sale.
+3. The Outelt size can affect the item sale. Larger the outlet size larger will be the variety of item available in that outlet and in large amount.
+4. Location of the stores might depends on the Item outlet sales.
+5. Size of the stores could have an effect on the item sales at a particular store.
+6.Are the items with more MRP have more item outlet sales.
+7.Are the stores which have established earlier have more sales.
+
+
